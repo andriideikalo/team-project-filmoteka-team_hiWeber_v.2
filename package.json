@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://RossHaluz.github.io/team-project-filmoteka",
+  "homepage": "https://andriideikalo.github.io/team-project-filmoteka-team_hiWeber_v.2",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project-filmoteka/"
+    "build": "parcel build src/*.html --public-url /team-project-filmoteka-team_hiWeber_v.2/"
   },
   "repository": {
     "type": "git",
